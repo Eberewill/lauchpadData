@@ -237,6 +237,74 @@
                 "250",
                 "5000"
             ]
+        },
+        {
+            "GMT": "16:00 GMT",
+            "pool": [
+                {
+                    "icon": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg",
+                    "name": "BUSD",
+                    "number": "1000000",
+                    "allocation": "150000"
+                },
+                {
+                    "icon": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
+                    "name": "USDT",
+                    "number": "666667",
+                    "allocation": "100000"
+                }
+            ],
+            "chain": "BSC",
+            "price": "0.15",
+            "state": "invested",
+            "IDODate": "25th March, 2022",
+            "contacts": {},
+            "projectID": "UEl51I48vmkJDT8eMToKWPCicmpWTvKs",
+            "sheetName": "oracula",
+            "description": "ORACULA provides DeFi Prediction markets the way you’ve never played before. You can win, earn, farm and get NFT bonuses all the way.",
+            "projectName": "Oracula Project",
+            "totalRaised": "",
+            "listingPrice": "0.2",
+            "projectPicture": "https://i.ibb.co/17YThcn/Frame-31117oracule.jpg",
+            "tokenAllocation": "1666667",
+            "personalAllocation": [
+                "250",
+                "5000"
+            ]
+        },
+        {
+            "GMT": "16:00 GMT",
+            "pool": [
+                {
+                    "icon": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg",
+                    "name": "BUSD",
+                    "number": "1000000",
+                    "allocation": "150000"
+                },
+                {
+                    "icon": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
+                    "name": "USDT",
+                    "number": "666667",
+                    "allocation": "100000"
+                }
+            ],
+            "chain": "BSC",
+            "price": "0.15",
+            "state": "invested",
+            "IDODate": "25th March, 2022",
+            "contacts": {},
+            "projectID": "UEl51I48vmkJDT8eMToKWPCicmpWTvKs",
+            "sheetName": "oracula",
+            "description": "ORACULA provides DeFi Prediction markets the way you’ve never played before. You can win, earn, farm and get NFT bonuses all the way.",
+            "projectName": "Oracula Project",
+            "totalRaised": "",
+            "listingPrice": "0.2",
+            "projectPicture": "https://i.ibb.co/17YThcn/Frame-31117oracule.jpg",
+            "tokenAllocation": "1666667",
+            "personalAllocation": [
+                "250",
+                "5000"
+            ]
         }
     ]
 }
